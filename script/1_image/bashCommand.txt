@@ -1,0 +1,10 @@
+
+
+#####arguments are $number_image $size_image
+sbatch ./script/1_image/step_1_download_tile.sh 16 1024
+python script/1_image/step_2_meta_split.py 
+
+sbatch --time=72:00:00 --mem=100GB --gres=gpu:a100:1 --output=slurm_3aVGG19_%j.out  --wrap='python script/1_image/step_3a_VGG19.py' 
+sbatch --time=72:00:00 --mem=100GB --gres=gpu:a100:1 --output=slurm_3binceptionV3_%j.out --wrap='python script/1_image/step_3b_inceptionV3.py' 
+sbatch --time=72:00:00 --mem=100GB --gres=gpu:a100:1 --output=slurm_3cresnet50_%j.out --wrap='python script/1_image/step_3c_resnet50.py' 
+
