@@ -1,0 +1,486 @@
+train acc: tensor(0.4504, dtype=torch.float64)
+valid acc: tensor(0.3347, dtype=torch.float64)
+train loss: 0.6896264016628265
+valid loss: 0.6982072531507256
+[[176 139]
+ [803 298]]
+train acc: tensor(0.6527, dtype=torch.float64)
+valid acc: tensor(0.5388, dtype=torch.float64)
+train loss: 0.6757638035282012
+valid loss: 0.6955979720930036
+[[597 271]
+ [382 166]]
+train acc: tensor(0.7718, dtype=torch.float64)
+valid acc: tensor(0.6377, dtype=torch.float64)
+train loss: 0.6597550899751725
+valid loss: 0.6914444853750508
+[[778 312]
+ [201 125]]
+train acc: tensor(0.8134, dtype=torch.float64)
+valid acc: tensor(0.6384, dtype=torch.float64)
+train loss: 0.6386325072857642
+valid loss: 0.6889226269186213
+[[774 307]
+ [205 130]]
+train acc: tensor(0.8256, dtype=torch.float64)
+valid acc: tensor(0.6412, dtype=torch.float64)
+train loss: 0.6100596591349571
+valid loss: 0.696850573748685
+[[779 308]
+ [200 129]]
+train acc: tensor(0.8506, dtype=torch.float64)
+valid acc: tensor(0.6250, dtype=torch.float64)
+train loss: 0.5773347754632273
+valid loss: 0.6942453451370925
+[[730 282]
+ [249 155]]
+train acc: tensor(0.8589, dtype=torch.float64)
+valid acc: tensor(0.6547, dtype=torch.float64)
+train loss: 0.5422553766158319
+valid loss: 0.6899258239885394
+[[772 282]
+ [207 155]]
+train acc: tensor(0.8769, dtype=torch.float64)
+valid acc: tensor(0.6766, dtype=torch.float64)
+train loss: 0.5020121089873776
+valid loss: 0.6782454212060135
+[[756 235]
+ [223 202]]
+train acc: tensor(0.8862, dtype=torch.float64)
+valid acc: tensor(0.6554, dtype=torch.float64)
+train loss: 0.45626881026452587
+valid loss: 0.6760395557692881
+[[693 202]
+ [286 235]]
+train acc: tensor(0.8963, dtype=torch.float64)
+valid acc: tensor(0.6681, dtype=torch.float64)
+train loss: 0.41199974552277596
+valid loss: 0.6746763446357813
+[[742 233]
+ [237 204]]
+train acc: tensor(0.9129, dtype=torch.float64)
+valid acc: tensor(0.6568, dtype=torch.float64)
+train loss: 0.3651251555450501
+valid loss: 0.6861264698960808
+[[707 214]
+ [272 223]]
+train acc: tensor(0.9250, dtype=torch.float64)
+valid acc: tensor(0.6554, dtype=torch.float64)
+train loss: 0.32249661438888116
+valid loss: 0.6976454954468803
+[[687 196]
+ [292 241]]
+train acc: tensor(0.9367, dtype=torch.float64)
+valid acc: tensor(0.6441, dtype=torch.float64)
+train loss: 0.2826139481557954
+valid loss: 0.7045210626687897
+[[679 204]
+ [300 233]]
+train acc: tensor(0.9468, dtype=torch.float64)
+valid acc: tensor(0.6469, dtype=torch.float64)
+train loss: 0.246435007861545
+valid loss: 0.7273050760954953
+[[689 210]
+ [290 227]]
+train acc: tensor(0.9608, dtype=torch.float64)
+valid acc: tensor(0.6589, dtype=torch.float64)
+train loss: 0.21513901352882386
+valid loss: 0.7442493529132242
+[[716 220]
+ [263 217]]
+train acc: tensor(0.9646, dtype=torch.float64)
+valid acc: tensor(0.6525, dtype=torch.float64)
+train loss: 0.1891662580592017
+valid loss: 0.7444329754020391
+[[692 205]
+ [287 232]]
+train acc: tensor(0.9735, dtype=torch.float64)
+valid acc: tensor(0.6645, dtype=torch.float64)
+train loss: 0.16172954843890283
+valid loss: 0.7903741372100422
+[[734 230]
+ [245 207]]
+train acc: tensor(0.9768, dtype=torch.float64)
+valid acc: tensor(0.6596, dtype=torch.float64)
+train loss: 0.14367755778854893
+valid loss: 0.8212794621339005
+[[734 237]
+ [245 200]]
+train acc: tensor(0.9832, dtype=torch.float64)
+valid acc: tensor(0.6511, dtype=torch.float64)
+train loss: 0.11658439488420563
+valid loss: 0.852292120121838
+[[734 249]
+ [245 188]]
+train acc: tensor(0.9879, dtype=torch.float64)
+valid acc: tensor(0.6624, dtype=torch.float64)
+train loss: 0.10074010308110906
+valid loss: 0.8836314393563217
+[[752 251]
+ [227 186]]
+train acc: tensor(0.9893, dtype=torch.float64)
+valid acc: tensor(0.6504, dtype=torch.float64)
+train loss: 0.08843151622962567
+valid loss: 0.8764311254359363
+[[713 229]
+ [266 208]]
+train acc: tensor(0.9919, dtype=torch.float64)
+valid acc: tensor(0.6596, dtype=torch.float64)
+train loss: 0.07732046963346581
+valid loss: 0.931186034773173
+[[738 241]
+ [241 196]]
+train acc: tensor(0.9933, dtype=torch.float64)
+valid acc: tensor(0.6469, dtype=torch.float64)
+train loss: 0.06372325974366357
+valid loss: 0.9321500568577413
+[[699 220]
+ [280 217]]
+train acc: tensor(0.9937, dtype=torch.float64)
+valid acc: tensor(0.6568, dtype=torch.float64)
+train loss: 0.058324818048746355
+valid loss: 1.0114080942748638
+[[755 262]
+ [224 175]]
+train acc: tensor(0.9949, dtype=torch.float64)
+valid acc: tensor(0.6511, dtype=torch.float64)
+train loss: 0.05080018201542477
+valid loss: 1.0414217382334592
+[[756 271]
+ [223 166]]
+train acc: tensor(0.9949, dtype=torch.float64)
+valid acc: tensor(0.6561, dtype=torch.float64)
+train loss: 0.043679477772375026
+valid loss: 1.0472465154160275
+[[746 254]
+ [233 183]]
+train acc: tensor(0.9964, dtype=torch.float64)
+valid acc: tensor(0.6518, dtype=torch.float64)
+train loss: 0.03821152305651095
+valid loss: 1.1434865794824751
+[[754 268]
+ [225 169]]
+train acc: tensor(0.9976, dtype=torch.float64)
+valid acc: tensor(0.6568, dtype=torch.float64)
+train loss: 0.03189205548035041
+valid loss: 1.1536834105179552
+[[766 273]
+ [213 164]]
+train acc: tensor(0.9980, dtype=torch.float64)
+valid acc: tensor(0.6335, dtype=torch.float64)
+train loss: 0.02886212459134479
+valid loss: 1.1492477633645026
+[[708 248]
+ [271 189]]
+train acc: tensor(0.9972, dtype=torch.float64)
+valid acc: tensor(0.6419, dtype=torch.float64)
+train loss: 0.02627343850570821
+valid loss: 1.186625702997272
+[[742 270]
+ [237 167]]
+train acc: tensor(0.9986, dtype=torch.float64)
+valid acc: tensor(0.6405, dtype=torch.float64)
+train loss: 0.022290857711566553
+valid loss: 1.2395071350456623
+[[729 259]
+ [250 178]]
+train acc: tensor(0.9990, dtype=torch.float64)
+valid acc: tensor(0.6490, dtype=torch.float64)
+train loss: 0.018714667463134372
+valid loss: 1.2314395811618044
+[[737 255]
+ [242 182]]
+train acc: tensor(0.9990, dtype=torch.float64)
+valid acc: tensor(0.6532, dtype=torch.float64)
+train loss: 0.016616949071026135
+valid loss: 1.2817208710011472
+[[749 261]
+ [230 176]]
+train acc: tensor(0.9988, dtype=torch.float64)
+valid acc: tensor(0.6419, dtype=torch.float64)
+train loss: 0.014911010436293098
+valid loss: 1.3543587698695365
+[[739 267]
+ [240 170]]
+train acc: tensor(0.9996, dtype=torch.float64)
+valid acc: tensor(0.6405, dtype=torch.float64)
+train loss: 0.012438588106494036
+valid loss: 1.323501217901037
+[[725 255]
+ [254 182]]
+train acc: tensor(0.9994, dtype=torch.float64)
+valid acc: tensor(0.6398, dtype=torch.float64)
+train loss: 0.011504369984651285
+valid loss: 1.3849342910761244
+[[740 271]
+ [239 166]]
+train acc: tensor(0.9994, dtype=torch.float64)
+valid acc: tensor(0.6455, dtype=torch.float64)
+train loss: 0.010705558410395057
+valid loss: 1.4696009831314676
+[[755 278]
+ [224 159]]
+train acc: tensor(0.9992, dtype=torch.float64)
+valid acc: tensor(0.6306, dtype=torch.float64)
+train loss: 0.010033128239334591
+valid loss: 1.4176176540302428
+[[729 273]
+ [250 164]]
+train acc: tensor(0.9996, dtype=torch.float64)
+valid acc: tensor(0.6412, dtype=torch.float64)
+train loss: 0.007906163355801254
+valid loss: 1.4178899340750126
+[[737 266]
+ [242 171]]
+train acc: tensor(0.9996, dtype=torch.float64)
+valid acc: tensor(0.6469, dtype=torch.float64)
+train loss: 0.008662130135381895
+valid loss: 1.5280855723311393
+[[742 263]
+ [237 174]]
+train acc: tensor(0.9998, dtype=torch.float64)
+valid acc: tensor(0.6349, dtype=torch.float64)
+train loss: 0.006954145917646407
+valid loss: 1.4279060569706927
+[[706 244]
+ [273 193]]
+train acc: tensor(0.9994, dtype=torch.float64)
+valid acc: tensor(0.6321, dtype=torch.float64)
+train loss: 0.007019060456960071
+valid loss: 1.512667592573032
+[[726 268]
+ [253 169]]
+train acc: tensor(0.9996, dtype=torch.float64)
+valid acc: tensor(0.6511, dtype=torch.float64)
+train loss: 0.005658173277193019
+valid loss: 1.4970355603132355
+[[726 241]
+ [253 196]]
+train acc: tensor(1., dtype=torch.float64)
+valid acc: tensor(0.6518, dtype=torch.float64)
+train loss: 0.004766492921889068
+valid loss: 1.54422579320629
+[[750 264]
+ [229 173]]
+train acc: tensor(0.9998, dtype=torch.float64)
+valid acc: tensor(0.6427, dtype=torch.float64)
+train loss: 0.004503250015606623
+valid loss: 1.5925617212994714
+[[744 271]
+ [235 166]]
+train acc: tensor(0.9998, dtype=torch.float64)
+valid acc: tensor(0.6434, dtype=torch.float64)
+train loss: 0.00413941724607045
+valid loss: 1.5457036582271704
+[[732 258]
+ [247 179]]
+train acc: tensor(1., dtype=torch.float64)
+valid acc: tensor(0.6469, dtype=torch.float64)
+train loss: 0.0037577231707532077
+valid loss: 1.5188367972882946
+[[722 243]
+ [257 194]]
+train acc: tensor(0.9998, dtype=torch.float64)
+valid acc: tensor(0.6434, dtype=torch.float64)
+train loss: 0.0034933772407502177
+valid loss: 1.6209199512272738
+[[732 258]
+ [247 179]]
+train acc: tensor(1., dtype=torch.float64)
+valid acc: tensor(0.6469, dtype=torch.float64)
+train loss: 0.002696555080183316
+valid loss: 1.7851646519109103
+[[753 274]
+ [226 163]]
+train acc: tensor(1., dtype=torch.float64)
+valid acc: tensor(0.6391, dtype=torch.float64)
+train loss: 0.002246112450619318
+valid loss: 1.6789486193924807
+[[723 255]
+ [256 182]]
+train acc: tensor(1., dtype=torch.float64)
+valid acc: tensor(0.6349, dtype=torch.float64)
+train loss: 0.0022850792027912254
+valid loss: 1.7077046112063226
+[[719 257]
+ [260 180]]
+train acc: tensor(0.9998, dtype=torch.float64)
+valid acc: tensor(0.6363, dtype=torch.float64)
+train loss: 0.0025090306327441676
+valid loss: 1.836723079172413
+[[728 264]
+ [251 173]]
+train acc: tensor(1., dtype=torch.float64)
+valid acc: tensor(0.6328, dtype=torch.float64)
+train loss: 0.001966821544403736
+valid loss: 1.6955523291665517
+[[728 269]
+ [251 168]]
+train acc: tensor(1., dtype=torch.float64)
+valid acc: tensor(0.6540, dtype=torch.float64)
+train loss: 0.0017213989742055175
+valid loss: 1.851695044656818
+[[772 283]
+ [207 154]]
+train acc: tensor(0.9998, dtype=torch.float64)
+valid acc: tensor(0.6328, dtype=torch.float64)
+train loss: 0.0021750822376493634
+valid loss: 1.8186319711503018
+[[753 294]
+ [226 143]]
+train acc: tensor(0.9998, dtype=torch.float64)
+valid acc: tensor(0.6342, dtype=torch.float64)
+train loss: 0.0016353590437633572
+valid loss: 1.7262296284852403
+[[706 245]
+ [273 192]]
+train acc: tensor(1., dtype=torch.float64)
+valid acc: tensor(0.6363, dtype=torch.float64)
+train loss: 0.001252211882139466
+valid loss: 1.8484966065106767
+[[751 287]
+ [228 150]]
+train acc: tensor(1., dtype=torch.float64)
+valid acc: tensor(0.6412, dtype=torch.float64)
+train loss: 0.00141517145844597
+valid loss: 1.812756863537799
+[[735 264]
+ [244 173]]
+train acc: tensor(1., dtype=torch.float64)
+valid acc: tensor(0.6448, dtype=torch.float64)
+train loss: 0.0012925322666330519
+valid loss: 1.9266520691721627
+[[764 288]
+ [215 149]]
+train acc: tensor(0.9996, dtype=torch.float64)
+valid acc: tensor(0.6384, dtype=torch.float64)
+train loss: 0.0018040973526020083
+valid loss: 2.013463785683506
+[[758 291]
+ [221 146]]
+train acc: tensor(1., dtype=torch.float64)
+valid acc: tensor(0.6321, dtype=torch.float64)
+train loss: 0.0008678768205784089
+valid loss: 1.8820731860868047
+[[727 269]
+ [252 168]]
+train acc: tensor(1., dtype=torch.float64)
+valid acc: tensor(0.6306, dtype=torch.float64)
+train loss: 0.0008715727448185545
+valid loss: 1.930226795124204
+[[723 267]
+ [256 170]]
+train acc: tensor(0.9996, dtype=torch.float64)
+valid acc: tensor(0.6582, dtype=torch.float64)
+train loss: 0.001928747163870984
+valid loss: 2.0867165390695077
+[[777 282]
+ [202 155]]
+train acc: tensor(0.9998, dtype=torch.float64)
+valid acc: tensor(0.6243, dtype=torch.float64)
+train loss: 0.0013584343311513001
+valid loss: 1.90649898048867
+[[709 262]
+ [270 175]]
+train acc: tensor(1., dtype=torch.float64)
+valid acc: tensor(0.6328, dtype=torch.float64)
+train loss: 0.0011476803569812253
+valid loss: 1.9705567572558864
+[[744 285]
+ [235 152]]
+train acc: tensor(1., dtype=torch.float64)
+valid acc: tensor(0.6356, dtype=torch.float64)
+train loss: 0.0011128910475235898
+valid loss: 1.9783681546536724
+[[744 281]
+ [235 156]]
+train acc: tensor(1., dtype=torch.float64)
+valid acc: tensor(0.6271, dtype=torch.float64)
+train loss: 0.0007204549496119369
+valid loss: 1.8618387164694539
+[[705 254]
+ [274 183]]
+train acc: tensor(1., dtype=torch.float64)
+valid acc: tensor(0.6321, dtype=torch.float64)
+train loss: 0.0007897548384907197
+valid loss: 1.9812702606903034
+[[740 282]
+ [239 155]]
+train acc: tensor(1., dtype=torch.float64)
+valid acc: tensor(0.6299, dtype=torch.float64)
+train loss: 0.0005696570293366676
+valid loss: 1.9610116686044115
+[[727 272]
+ [252 165]]
+train acc: tensor(1., dtype=torch.float64)
+valid acc: tensor(0.6370, dtype=torch.float64)
+train loss: 0.0007072691534572627
+valid loss: 1.9955490847651878
+[[735 270]
+ [244 167]]
+train acc: tensor(1., dtype=torch.float64)
+valid acc: tensor(0.6377, dtype=torch.float64)
+train loss: 0.00055988936123134
+valid loss: 2.1128873905439054
+[[742 276]
+ [237 161]]
+train acc: tensor(1., dtype=torch.float64)
+valid acc: tensor(0.6335, dtype=torch.float64)
+train loss: 0.00045341307416698153
+valid loss: 2.009363289964333
+[[736 276]
+ [243 161]]
+train acc: tensor(1., dtype=torch.float64)
+valid acc: tensor(0.6285, dtype=torch.float64)
+train loss: 0.0005002233313843458
+valid loss: 2.0982554541544967
+[[736 283]
+ [243 154]]
+train acc: tensor(1., dtype=torch.float64)
+valid acc: tensor(0.6391, dtype=torch.float64)
+train loss: 0.000391784252502886
+valid loss: 2.1903386159559313
+[[751 283]
+ [228 154]]
+train acc: tensor(1., dtype=torch.float64)
+valid acc: tensor(0.6321, dtype=torch.float64)
+train loss: 0.0003579909487539666
+valid loss: 2.0882901250478927
+[[720 262]
+ [259 175]]
+train acc: tensor(0.9998, dtype=torch.float64)
+valid acc: tensor(0.6349, dtype=torch.float64)
+train loss: 0.0008867344440190092
+valid loss: 2.0342070739925577
+[[717 255]
+ [262 182]]
+train acc: tensor(1., dtype=torch.float64)
+valid acc: tensor(0.6257, dtype=torch.float64)
+train loss: 0.00039723540380251623
+valid loss: 2.1582994772477098
+[[726 277]
+ [253 160]]
+train acc: tensor(1., dtype=torch.float64)
+valid acc: tensor(0.6405, dtype=torch.float64)
+train loss: 0.00029877707241417564
+valid loss: 2.230810530065151
+[[754 284]
+ [225 153]]
+train acc: tensor(1., dtype=torch.float64)
+valid acc: tensor(0.6511, dtype=torch.float64)
+train loss: 0.0003650078856216785
+valid loss: 2.285576940085111
+[[773 288]
+ [206 149]]
+train acc: tensor(1., dtype=torch.float64)
+valid acc: tensor(0.6434, dtype=torch.float64)
+train loss: 0.000307075393665136
+valid loss: 2.170765338988786
+[[742 268]
+ [237 169]]
+train acc: tensor(0.9996, dtype=torch.float64)
+valid acc: tensor(0.6095, dtype=torch.float64)
+train loss: 0.0022574574189093257
+valid loss: 2.217678560634677
+[[693 267]
+ [286 170]]

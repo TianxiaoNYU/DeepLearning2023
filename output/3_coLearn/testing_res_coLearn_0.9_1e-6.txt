@@ -1,0 +1,16 @@
+vote weight:  Parameter containing:
+tensor([1.0043, 1.0011, 1.0056, 1.0049], device='cuda:0', requires_grad=True)  vote bias:  -0.00010411120456410572
+Training confusion matrix:
+[[2987  362]
+ [ 290 1343]]
+Training AUC = 0.9443457779583465
+Validation confusion matrix:
+[[691 263]
+ [252 201]]
+Validation AUC = 0.6020107324386588
+vote weight:  Parameter containing:
+tensor([1.0043, 1.0011, 1.0056, 1.0049], device='cuda:0', requires_grad=True)  vote bias:  -0.00010411120456410572
+Test confusion matrix:
+[[321 177]
+ [116  77]]
+Test AUC = 0.5451539667381394
