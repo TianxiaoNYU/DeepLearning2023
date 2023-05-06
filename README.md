@@ -24,75 +24,77 @@ Tianxiao Zhao, Ze Chen
 
 Therefore, our script also has three parts.
 script
-   ├── 1_image
 
-   │   ├── bashCommand.txt
+├── 1_image
 
-   │   ├── function.py                        containing all util function
+│   ├── bashCommand.txt
 
-   │   ├── split_whole.image.py               cropping whole image into required size of tiles
+│   ├── function.py                        containing all util function
 
-   │   ├── step_1_download_tile.sh            step 1 download image and applying split_whole.image.py
+│   ├── split_whole.image.py               cropping whole image into required size of tiles
 
-   │   ├── step_2a_image_transformation.py    Macenko normalization
+│   ├── step_1_download_tile.sh            step 1 download image and applying split_whole.image.py
 
-   │   ├── step_2_meta_split.py               split into training, validation, and test
+│   ├── step_2a_image_transformation.py    Macenko normalization
 
-   │   ├── step_3a_VGG19.py                   vgg19 on subset data
+│   ├── step_2_meta_split.py               split into training, validation, and test
 
-   │   ├── step_3b_inceptionV3.py             inceptionV3 on subset data
+│   ├── step_3a_VGG19.py                   vgg19 on subset data
 
-   │   ├── step_3c_resnet50_subset.py         resnet50 on subset data
+│   ├── step_3b_inceptionV3.py             inceptionV3 on subset data
 
-   │   ├── step_4a_TZVGG19.py                 vgg19 on whole data
+│   ├── step_3c_resnet50_subset.py         resnet50 on subset data
 
-   │   ├── step_4c_resnet50.py                resnet50 on whole data
+│   ├── step_4a_TZVGG19.py                 vgg19 on whole data
 
-   │   ├── TZ_resnet50.py                     
+│   ├── step_4c_resnet50.py                resnet50 on whole data
 
-   │   ├── TZ_resnet_test.py                  get test performance by resnet50
+│   ├── TZ_resnet50.py                     
 
-   │   ├── TZ_vgg_trimmed.py
+│   ├── TZ_resnet_test.py                  get test performance by resnet50
 
-   │   └── vgg_run_TZ.sh
+│   ├── TZ_vgg_trimmed.py
 
-   ├── 1_other
+│   └── vgg_run_TZ.sh
 
-   │   ├── function.py                        containing all util function
+├── 1_other
 
-   │   └── TZ_multiomics.py                   run 1dimensional model
+│   ├── function.py                        containing all util function
 
-   ├── 2_baseMulti
+│   └── TZ_multiomics.py                   run 1dimensional model
 
-   │   ├── function.py                        containing all util function
+├── 2_baseMulti
 
-   │   ├── step_1_download_1D.sh              download RNA, CNV, Meth
+│   ├── function.py                        containing all util function
 
-   │   ├── step_2_meta_split.py               split into training, validation, and test
+│   ├── step_1_download_1D.sh              download RNA, CNV, Meth
 
-   │   ├── step_3_1Domics.py                  scale 1D data and adding noise
+│   ├── step_2_meta_split.py               split into training, validation, and test
 
-   │   ├── step_4c_resnet50_subset.py         baseline_mo on subset dataset
+│   ├── step_3_1Domics.py                  scale 1D data and adding noise
 
-   │   ├── step_5c_resnet.py                  baseline mo on whole data
+│   ├── step_4c_resnet50_subset.py         baseline_mo on subset dataset
 
-   │   ├── TZ_basemulti_test.py               test performance from the best model
+│   ├── step_5c_resnet.py                  baseline mo on whole data
 
-   │   └── TZ_step_4c_resnet50_subset.py      
+│   ├── TZ_basemulti_test.py               test performance from the best model
 
-   └── 3_coLearn               
+│   └── TZ_step_4c_resnet50_subset.py      
 
-​        ├── function.py                        containing all util function
+└── 3_coLearn               
 
-​        ├── step_1c_resnet50_subset.py         co_mo on subset dataset
+​     ├── function.py                        containing all util function
 
-​        ├── step_2c_resnet50.py                co_mo on whole dataset
+​     ├── step_1c_resnet50_subset.py         co_mo on subset dataset
 
-​        └── TZ_coopLearning.py                 test performance from the best model
+​     ├── step_2c_resnet50.py                co_mo on whole dataset
+
+​     └── TZ_coopLearning.py                 test performance from the best model
 
 
 
 Corresponding, our output also three parts:
+
 ├── output
 
 │   ├── 1_image
